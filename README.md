@@ -40,4 +40,6 @@ Special thanks to the Pygame development team for providing an excellent framewo
 
 Enjoy exploring the simulation of rectangular block collisions!
 
+## Simulation Sample 
+
 ![image](https://github.com/nitin-kumar101/collision-simulator/assets/67340966/cf388e7f-fb35-43a2-a774-183d38b42433)
